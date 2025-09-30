@@ -1,0 +1,5 @@
+service:
+  name: "Service A - Production"
+logging:
+  level:
+    root: WARN
